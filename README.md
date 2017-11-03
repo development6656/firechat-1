@@ -1,3 +1,10 @@
+open Virtual device
+- react-native run-android
+- react-native start
+
+
+
+
 # FireChat
 
 An example how to use React Native + Firebase to create a messaging app
